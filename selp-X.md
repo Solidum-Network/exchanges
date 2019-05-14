@@ -7,4 +7,4 @@
 
 This is the suggested template for a new exchange listing proposal.
 
-When opening a pull request to submit your SELP, please include the exchange name in the the filename, e.g. smpl-STEX.md.
+When opening a pull request to submit your SELP, please include the exchange name in the the filename, e.g. selp-POLONIEX.md.
